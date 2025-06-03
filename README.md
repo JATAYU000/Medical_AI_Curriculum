@@ -38,11 +38,11 @@ The UNET model, and pretrained Models like EfficientNet- b5 and ResNet as Encode
 ### Testing & Results
 
 **EfficientNetUnet-b5**
-
+![image](Images/EffUNet.png)
 `AVG = LOSS: 0.1254  IOU: 0.7781  DICE: 0.8764`
 
 **ResNetUNet**
-
+![image](Images/ResUNet.png)
 `AVG = LOSS: 0.1817  IOU: 0.7057  DICE: 0.8188`
 
 **UNet**
